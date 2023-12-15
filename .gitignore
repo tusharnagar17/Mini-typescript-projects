@@ -1,0 +1,4 @@
+# folder to ignore
+node_modules/
+
+# file to ignore
